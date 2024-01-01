@@ -14,7 +14,7 @@ import random
 
 # 玩家出拳
 player = int(input('请出拳: 0-石头, 1-剪刀, 2-布:'))
-print(f'玩家出拳:{player}');
+print(f'玩家出拳:{player}')
 
 # 电脑出拳
 
